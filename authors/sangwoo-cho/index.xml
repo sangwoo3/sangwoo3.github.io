@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sangwoo Cho</title>
-    <link>https://sangwoo3.github.io/</link>
+    <link>https://sangwoo3.github.io/authors/sangwoo-cho/</link>
     <description>Recent content on Sangwoo Cho</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Dec 2018 00:00:00 -0500</lastBuildDate>
     
-	    <atom:link href="https://sangwoo3.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sangwoo3.github.io/authors/sangwoo-cho/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
