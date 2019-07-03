@@ -4,71 +4,42 @@
   
   <url>
     <loc>https://sangwoo3.github.io/publication_types/1/</loc>
-    <lastmod>2019-05-13T00:00:00-04:00</lastmod>
+    <lastmod>2018-12-02T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sangwoo3.github.io/authors/</loc>
-    <lastmod>2019-05-13T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sangwoo3.github.io/authors/fei-liu/</loc>
-    <lastmod>2019-05-13T00:00:00-04:00</lastmod>
+    <lastmod>2018-12-02T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sangwoo3.github.io/authors/hassan-foroosh/</loc>
-    <lastmod>2019-05-13T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sangwoo3.github.io/publication/acl19/</loc>
-    <lastmod>2019-05-13T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sangwoo3.github.io/authors/logan-lebanoff/</loc>
-    <lastmod>2019-05-13T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sangwoo3.github.io/tags/oral/</loc>
-    <lastmod>2019-05-13T00:00:00-04:00</lastmod>
+    <lastmod>2018-12-02T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sangwoo3.github.io/publication_types/</loc>
-    <lastmod>2019-05-13T00:00:00-04:00</lastmod>
+    <lastmod>2018-12-02T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sangwoo3.github.io/publication/</loc>
-    <lastmod>2019-05-13T00:00:00-04:00</lastmod>
+    <lastmod>2018-12-02T00:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://sangwoo3.github.io/authors/sangwoo-cho/</loc>
-    <lastmod>2019-05-13T00:00:00-04:00</lastmod>
+    <lastmod>2018-12-02T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sangwoo3.github.io/</loc>
-    <lastmod>2019-05-13T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sangwoo3.github.io/tags/</loc>
-    <lastmod>2019-05-13T00:00:00-04:00</lastmod>
+    <lastmod>2018-12-02T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -97,6 +68,11 @@
   
   <url>
     <loc>https://sangwoo3.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sangwoo3.github.io/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
