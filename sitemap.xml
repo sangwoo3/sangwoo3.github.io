@@ -39,12 +39,6 @@
   </url>
   
   <url>
-    <loc>https://sangwoo3.github.io/tags/newsum-workshop/</loc>
-    <lastmod>2019-11-03T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sangwoo3.github.io/publication_types/</loc>
     <lastmod>2019-11-03T00:00:00-04:00</lastmod>
     <priority>0</priority>
@@ -69,6 +63,12 @@
   
   <url>
     <loc>https://sangwoo3.github.io/tags/</loc>
+    <lastmod>2019-11-03T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sangwoo3.github.io/tags/workshop/</loc>
     <lastmod>2019-11-03T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
