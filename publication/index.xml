@@ -6,10 +6,19 @@
     <description>Recent content in Publications on Sangwoo Cho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Nov 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://sangwoo3.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Self-Attention Network for Skeleton-based Human Action Recognition</title>
+      <link>https://sangwoo3.github.io/publication/wacv20/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sangwoo3.github.io/publication/wacv20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-Document Summarization with Determinantal Point Processes and Contextualized Representations</title>
@@ -44,15 +53,6 @@
       <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
       
       <guid>https://sangwoo3.github.io/publication/wacv18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-Attention Network for Skeleton-based Human Action Recognition</title>
-      <link>https://sangwoo3.github.io/publication/wacv20/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangwoo3.github.io/publication/wacv20/</guid>
       <description></description>
     </item>
     

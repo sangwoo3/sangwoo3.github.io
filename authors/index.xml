@@ -6,10 +6,46 @@
     <description>Recent content in Authors on Sangwoo Cho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Nov 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://sangwoo3.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fei Liu</title>
+      <link>https://sangwoo3.github.io/authors/fei-liu/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sangwoo3.github.io/authors/fei-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hassan Foroosh</title>
+      <link>https://sangwoo3.github.io/authors/hassan-foroosh/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sangwoo3.github.io/authors/hassan-foroosh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muhammad Hasan Maqbool</title>
+      <link>https://sangwoo3.github.io/authors/muhammad-hasan-maqbool/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sangwoo3.github.io/authors/muhammad-hasan-maqbool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sangwoo Cho</title>
+      <link>https://sangwoo3.github.io/authors/sangwoo-cho/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sangwoo3.github.io/authors/sangwoo-cho/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chen Li</title>
@@ -30,33 +66,6 @@
     </item>
     
     <item>
-      <title>Fei Liu</title>
-      <link>https://sangwoo3.github.io/authors/fei-liu/</link>
-      <pubDate>Sun, 03 Nov 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://sangwoo3.github.io/authors/fei-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hassan Foroosh</title>
-      <link>https://sangwoo3.github.io/authors/hassan-foroosh/</link>
-      <pubDate>Sun, 03 Nov 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://sangwoo3.github.io/authors/hassan-foroosh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sangwoo Cho</title>
-      <link>https://sangwoo3.github.io/authors/sangwoo-cho/</link>
-      <pubDate>Sun, 03 Nov 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://sangwoo3.github.io/authors/sangwoo-cho/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Logan Lebanoff</title>
       <link>https://sangwoo3.github.io/authors/logan-lebanoff/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 -0400</pubDate>
@@ -72,15 +81,6 @@
       
       <guid>https://sangwoo3.github.io/authors/admin/</guid>
       <description>Hi! My name is Sangwoo Cho or 조상우 (in Korean) and I am a 4th-year Ph.D. student in the Computer Science Department at the University of Central Florida. My research interests include Computer Vision, Video Action Recognition, Natural Language Processing, Automatic Text Summarization, and Deep Learning. I am currently under the supervision of Dr. Hassan Foroosh in the CIL and Dr. Fei Liu in the UCF NLP group.</description>
-    </item>
-    
-    <item>
-      <title>Muhammad Hasan Maqbool</title>
-      <link>https://sangwoo3.github.io/authors/muhammad-hasan-maqbool/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangwoo3.github.io/authors/muhammad-hasan-maqbool/</guid>
-      <description></description>
     </item>
     
   </channel>
