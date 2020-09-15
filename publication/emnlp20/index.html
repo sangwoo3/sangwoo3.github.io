@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
@@ -29,10 +27,10 @@
   
     
   
-  <meta name="description" content="Ph.D. Student in Computer Vision and NLP">
+  <meta name="description" content="In this paper, we aim to generate summary highlights to be overlaid on the original documents to make it easier for readers to sift through a large amount of texts. The method allows summaries to be understood in context to prevent any summarizer from distorting the original meaning, of which abstractive summarization can fall short. In particular, we present a new method to produce self-contained highlights that are understandable on their own to avoid any confusion. Our method combines determinantal point processes and deep contextualized representations to identify an optimal set of sub-sentence segments that are both important and non-redundant to form summary highlights. To show the flexibility and modeling power of our method, we conduct extensive experiments on summarization datasets. Our analysis provides further evidence that highlighting is a promising avenue of research toward future summarization.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://sangwoo3.github.io/authors/sangwoo-cho/">
+  <link rel="alternate" hreflang="en-us" href="https://sangwoo3.github.io/publication/emnlp20/">
 
   
 
@@ -104,15 +102,12 @@
   
 
   
-  <link rel="alternate" href="/authors/sangwoo-cho/index.xml" type="application/rss+xml" title="Sangwoo Cho">
-  <link rel="feed" href="/authors/sangwoo-cho/index.xml" type="application/rss+xml" title="Sangwoo Cho">
-  
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://sangwoo3.github.io/authors/sangwoo-cho/">
+  <link rel="canonical" href="https://sangwoo3.github.io/publication/emnlp20/">
 
   
   
@@ -124,19 +119,21 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Sangwoo Cho">
-  <meta property="og:url" content="https://sangwoo3.github.io/authors/sangwoo-cho/">
-  <meta property="og:title" content="Sangwoo Cho | Sangwoo Cho">
-  <meta property="og:description" content="Ph.D. Student in Computer Vision and NLP"><meta property="og:image" content="https://sangwoo3.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://sangwoo3.github.io/publication/emnlp20/">
+  <meta property="og:title" content="Better Highlighting: Creating Sub-Sentence Summary Highlights | Sangwoo Cho">
+  <meta property="og:description" content="In this paper, we aim to generate summary highlights to be overlaid on the original documents to make it easier for readers to sift through a large amount of texts. The method allows summaries to be understood in context to prevent any summarizer from distorting the original meaning, of which abstractive summarization can fall short. In particular, we present a new method to produce self-contained highlights that are understandable on their own to avoid any confusion. Our method combines determinantal point processes and deep contextualized representations to identify an optimal set of sub-sentence segments that are both important and non-redundant to form summary highlights. To show the flexibility and modeling power of our method, we conduct extensive experiments on summarization datasets. Our analysis provides further evidence that highlighting is a promising avenue of research toward future summarization."><meta property="og:image" content="https://sangwoo3.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2020-09-14T00:00:00-04:00">
+  <meta property="article:published_time" content="2020-09-14T00:00:00-04:00">
+  
+  <meta property="article:modified_time" content="2020-09-14T00:00:00-04:00">
   
 
   
 
   
 
-  <title>Sangwoo Cho | Sangwoo Cho</title>
+  <title>Better Highlighting: Creating Sub-Sentence Summary Highlights | Sangwoo Cho</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -340,56 +337,235 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
 
 
 
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Sangwoo Cho</h1>
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Better Highlighting: Creating Sub-Sentence Summary Highlights</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2020-09-14 00:00:00 -0400 EDT" itemprop="datePublished">
+<meta content="2020-09-14 00:00:00 -0400 EDT" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sangwoo-cho/">Sangwoo Cho</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kaiqiang-song/">Kaiqiang Song</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/chen-li/">Chen Li</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/dong-yu/">Dong Yu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/hassan-foroosh/">Hassan Foroosh</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/fei-liu/">Fei Liu</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>September 2020</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=&amp;url="
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u="
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title="
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=&amp;title="
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=&amp;body=">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+  
+
+</div>
+
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">In this paper, we aim to generate summary highlights to be overlaid on the original documents to make it easier for readers to sift through a large amount of texts. The method allows summaries to be understood in context to prevent any summarizer from distorting the original meaning, of which abstractive summarization can fall short. In particular, we present a new method to produce self-contained highlights that are understandable on their own to avoid any confusion. Our method combines determinantal point processes and deep contextualized representations to identify an optimal set of sub-sentence segments that are both important and non-redundant to form summary highlights. To show the flexibility and modeling power of our method, we conduct extensive experiments on summarization datasets. Our analysis provides further evidence that highlighting is a promising avenue of research toward future summarization.</p>
     
 
     
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
+
     
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/emnlp20/">Better Highlighting: Creating Sub-Sentence Summary Highlights</a>
-        </li>
-        
-        <li>
-          <a href="/publication/wacv20/">Self-Attention Network for Skeleton-based Human Action Recognition</a>
-        </li>
-        
-        <li>
-          <a href="/publication/emnlp19/">Multi-Document Summarization with Determinantal Point Processes and Contextualized Representations</a>
-        </li>
-        
-        <li>
-          <a href="/publication/acl19/">Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization</a>
-        </li>
-        
-        <li>
-          <a href="/publication/accv18/">Spatio-Temporal Fusion Networks for Action Recognition</a>
-        </li>
-        
-        <li>
-          <a href="/publication/wacv18/">A Temporal Sequence Learning for Action Recognition and Prediction</a>
-        </li>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In Proceedings of the 2020 Empirical Methods in Natural Language Processing.</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/sangwoo-cho/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
         
       </ul>
     </div>
   </div>
-  
-</section>
+
+
+
+
+  </div>
+</div>
+
+
 
 <div class="container">
   <footer class="site-footer">
@@ -446,6 +622,9 @@
 
     
     
+    
+    <script src="/js/mathjax-config.js"></script>
+    
 
     
     
@@ -462,6 +641,8 @@
       
 
       
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
       
     
 
