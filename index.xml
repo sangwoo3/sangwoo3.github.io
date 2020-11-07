@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sangwoo Cho</title>
+    <link>https://sangwoo3.github.io/</link>
+    <description>Recent content on Sangwoo Cho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 -0400</lastBuildDate>
+    
+	    <atom:link href="https://sangwoo3.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>https://sangwoo3.github.io/publication/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://sangwoo3.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://sangwoo3.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sangwoo3.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://sangwoo3.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sangwoo3.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

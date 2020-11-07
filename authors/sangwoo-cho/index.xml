@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sangwoo Cho</title>
+    <link>https://sangwoo3.github.io/authors/sangwoo-cho/</link>
+    <description>Recent content on Sangwoo Cho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 -0400</lastBuildDate><atom:link href="https://sangwoo3.github.io/authors/sangwoo-cho/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Better Highlighting: Creating Sub-Sentence Summary Highlights</title>
+      <link>https://sangwoo3.github.io/publication/emnlp20/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://sangwoo3.github.io/publication/emnlp20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Attention Network for Skeleton-based Human Action Recognition</title>
+      <link>https://sangwoo3.github.io/publication/wacv20/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://sangwoo3.github.io/publication/wacv20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Document Summarization with Determinantal Point Processes and Contextualized Representations</title>
+      <link>https://sangwoo3.github.io/publication/emnlp19/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://sangwoo3.github.io/publication/emnlp19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization</title>
+      <link>https://sangwoo3.github.io/publication/acl19/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://sangwoo3.github.io/publication/acl19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-Temporal Fusion Networks for Action Recognition</title>
+      <link>https://sangwoo3.github.io/publication/accv18/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://sangwoo3.github.io/publication/accv18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Temporal Sequence Learning for Action Recognition and Prediction</title>
+      <link>https://sangwoo3.github.io/publication/wacv18/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://sangwoo3.github.io/publication/wacv18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rotation estimation from cloud tracking</title>
+      <link>https://sangwoo3.github.io/publication/wacv14/</link>
+      <pubDate>Mon, 24 Mar 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://sangwoo3.github.io/publication/wacv14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
