@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+=======
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+>>>>>>> 6b789fb1ca77d5ba22456555779737052140be82
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Enrique Dunn on Sangwoo Cho</title>
@@ -6,7 +10,15 @@
     <description>Recent content in Enrique Dunn on Sangwoo Cho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 24 Mar 2014 00:00:00 -0400</lastBuildDate><atom:link href="https://sangwoo3.github.io/authors/enrique-dunn/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <lastBuildDate>Mon, 24 Mar 2014 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://sangwoo3.github.io/authors/enrique-dunn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+>>>>>>> 6b789fb1ca77d5ba22456555779737052140be82
     <item>
       <title>Rotation estimation from cloud tracking</title>
       <link>https://sangwoo3.github.io/publication/wacv14/</link>
@@ -17,4 +29,8 @@
     </item>
     
   </channel>
+<<<<<<< HEAD
 </rss>
+=======
+</rss>
+>>>>>>> 6b789fb1ca77d5ba22456555779737052140be82
