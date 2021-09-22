@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Ganter on Sangwoo Cho</title>
+    <link>https://sangwoo3.github.io/authors/tim-ganter/</link>
+    <description>Recent content in Tim Ganter on Sangwoo Cho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Sep 2021 00:00:00 -0700</lastBuildDate><atom:link href="https://sangwoo3.github.io/authors/tim-ganter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>StreamHover: Livestream Transcript Summarization and Annotation</title>
+      <link>https://sangwoo3.github.io/publication/emnlp21/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://sangwoo3.github.io/publication/emnlp21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
