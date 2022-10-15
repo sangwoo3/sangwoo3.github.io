@@ -24,7 +24,7 @@ Hello! I am a senior research scientist at [Tencent AI Lab](https://ai.tencent.c
   <br>
   Empirical Methods in Natural Language Processing. **EMNLP 2022**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF]()] [[Code]()] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 - **Salience Allocation as Guidance for Abstractive Summarization**
   <br>
@@ -32,7 +32,7 @@ Hello! I am a senior research scientist at [Tencent AI Lab](https://ai.tencent.c
   <br>
   Empirical Methods in Natural Language Processing. **EMNLP 2022**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF]()] [[Code]()]
 
 - **StreamHover: Livestream Transcript Summarization and Annotation**
   <br>**Sangwoo Cho**, Franck Dernoncourt, Tim Ganter, Trung Bui, Nedim Lipka, Walter Chang, Hailin Jin, Jonathan Brandt, Hassan Foroosh, Fei Liu
@@ -43,4 +43,4 @@ Hello! I am a senior research scientist at [Tencent AI Lab](https://ai.tencent.c
 
 ## Services
 
-- Conference Reviewers: NAACL 2021,2022, EMNLP 2019-2022, ACL 2019-2022.
+- Conference Reviewers: NAACL 2021,2022, EMNLP 2019-2022, ACL 2019-2022, AAAI 2023.
