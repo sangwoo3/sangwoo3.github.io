@@ -34,13 +34,13 @@
         <h1 style="font-size:2em;">{{ site.title }}</h1> 
         
         {% if site.position %}
-        <p>{{ site.position }}</p>
+        {{ site.position }}
         <br>
         {% endif %}
-        <p>{{ site.affiliation }}</p>
+        {{ site.affiliation }}
         {% if site.email %}
         <br>
-        <p>{{ site.email }}</p>
+        {{ site.email }}
         <br>
         <br>
         {% endif %}
