@@ -4,47 +4,43 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi! I am a senior research scientist at [Tencent AI Lab](https://ai.tencent.com/ailab/nlp/en/index.html) , which I joined in 2021 after I graduated from the [University of Central Florida](http://www.ucf.edu/). My research  focuses on the areas of summarization, information extraction,  document understanding and generation. I have also worked on Computer Vision, specifically action recognition based on videos during his Ph.D. and am interested in multi-modal grounding across NLP and CV.
+
+## 📝 [Resume](./assets/resume/Resume_Sangwoo_Cho.pdf)
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Natural Language Processing:** summarization, document understanding, text generation
+- **Computer Vision:** action recognition, multi-modal language modeling
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2020]** Two papers about summarization are accepted to EMNLP 2022.
 
 ## Publications
-
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Toward Unifying Text Segmentation and Long Document Summarization**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+   **Sangwoo Cho**, Kaiqiang Song, Xiaoyang Wang, Fei Liu and Dong Yu
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  Empirical Methods in Natural Language Processing. **EMNLP 2022**.
   <br>
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Salience Allocation as Guidance for Abstractive Summarization**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Fei Wang, Kaiqiang Song, Hongming Zhang, Lifeng Jin, **Sangwoo Cho**, Wenlin Yao, Xiaoyang Wang, Muhao Chen and Dong Yu
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  Empirical Methods in Natural Language Processing. **EMNLP 2022**.
   <br>
   [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **StreamHover: Livestream Transcript Summarization and Annotation**
+  <br>**Sangwoo Cho**, Franck Dernoncourt, Tim Ganter, Trung Bui, Nedim Lipka, Walter Chang, Hailin Jin, Jonathan Brandt, Hassan Foroosh, Fei Liu
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  Empirical Methods in Natural Language Processing. **EMNLP 2021**.
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](https://arxiv.org/pdf/2109.05160.pdf)] [[Code](https://github.com/ucfnlp/streamhover)]
 
 ## Services
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- Conference Reviewers: NAACL 2021,2022, EMNLP 2019-2022, ACL 2019-2022.
