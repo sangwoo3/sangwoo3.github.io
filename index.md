@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-Hello! I am a senior research scientist at [Tencent AI Lab](https://ai.tencent.com/ailab/nlp/en/index.html) , which I joined in 2021 after I graduated from the [University of Central Florida](http://www.ucf.edu/). My research  focuses on the areas of summarization, information extraction,  document understanding and generation. I have also worked on Computer Vision, specifically action recognition based on videos during his Ph.D. and am interested in multi-modal grounding across NLP and CV.
+Hello! I am a senior research scientist at [Tencent AI Lab](https://ai.tencent.com/ailab/nlp/en/index.html) , which I joined in 2021 after I graduated from the University of Central Florida. My research  focuses on the areas of summarization, information extraction,  document understanding and generation. I have also worked on Computer Vision, specifically action recognition based on videos during his Ph.D. and am interested in multi-modal grounding across NLP and CV.
 
 ## 📝 [Resume](./assets/resume/Resume_Sangwoo_Cho.pdf)
 
 ## Research Interests
 
 - **Natural Language Processing:** summarization, document understanding, text generation
-- **Computer Vision:** action recognition, multi-modal language modeling
+- **Computer Vision:** action recognition, multi-modal language model
 
 ## News
 
@@ -24,7 +24,7 @@ Hello! I am a senior research scientist at [Tencent AI Lab](https://ai.tencent.c
   <br>
   Empirical Methods in Natural Language Processing. **EMNLP 2022**.
   <br>
-  [[PDF]()] [[Code]()] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/pdf/2210.16422)] [[Code](https://github.com/tencent-ailab/Lodoss)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 - **Salience Allocation as Guidance for Abstractive Summarization**
   <br>
@@ -32,7 +32,7 @@ Hello! I am a senior research scientist at [Tencent AI Lab](https://ai.tencent.c
   <br>
   Empirical Methods in Natural Language Processing. **EMNLP 2022**.
   <br>
-  [[PDF]()] [[Code]()]
+  [[PDF]()] [[Code](https://github.com/tencent-ailab/season)]
 
 - **StreamHover: Livestream Transcript Summarization and Annotation**
   <br>**Sangwoo Cho**, Franck Dernoncourt, Tim Ganter, Trung Bui, Nedim Lipka, Walter Chang, Hailin Jin, Jonathan Brandt, Hassan Foroosh, Fei Liu
