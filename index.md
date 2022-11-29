@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I am a senior research scientist at [Tencent AI Lab](https://ai.tencent.com/ailab/nlp/en/index.html) , which I joined in 2021 after I graduated from the University of Central Florida. My research  focuses on the areas of summarization, information extraction,  document understanding and generation. I have also worked on Computer Vision, specifically action recognition based on videos during his Ph.D. and am interested in multi-modal grounding across NLP and CV.
+Hello! I am a senior research scientist at [Tencent AI Lab](https://ai.tencent.com/ailab/nlp/en/index.html) , which I joined in 2021 after I graduated from the University of Central Florida. My research  focuses on the areas of summarization, information extraction,  document understanding and generation. I have also worked on Computer Vision, specifically action recognition based on videos during  Ph.D. and am interested in multi-modal grounding across NLP and CV.
 
 ## 📝 [Resume](./assets/resume/Resume_Sangwoo_Cho.pdf)
 
