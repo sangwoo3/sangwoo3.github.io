@@ -8,7 +8,7 @@ Hello! (안녕하세요!)
 
 I am a senior research scientist at [Tencent AI Lab](https://ai.tencent.com/ailab/nlp/en/index.html). My research  focuses on the areas of summarization, long document understanding, and understanding of LLMs. I am also interested in multi-modal Vision and Language models.
 
-Are you a talented NLP PhD student seeking an enriching internship experience? Please reach out to me via email to explore exciting internship opportunities throughout the year. Our internships not only offer valuable research experience but also provide opportunities for publishing papers.
+Are you a self-motivated student seeking an enriching internship experience? Please reach out to me via email to explore exciting internship opportunities throughout the year. Our internships not only offer valuable hands-on research experience but also provide opportunities for publishing papers.
 
 ## 📝 [Resume](./assets/resume/Resume_Sangwoo_Cho.pdf)
 
