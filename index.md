@@ -6,30 +6,39 @@ layout: homepage
 
 Hello! (안녕하세요!) 
 
-I am a senior research scientist at [Tencent AI Lab](https://ai.tencent.com/ailab/nlp/en/index.html). My research  focuses on the areas of summarization, long document understanding, and understanding of LLMs. I am also interested in multi-modal Vision and Language models.
+I am a senior research scientist at [Tencent AI Lab](https://ai.tencent.com/ailab/nlp/en/index.html). My research  focuses on the areas of summarization, long document understanding, and understanding of LLMs. I am also interested in multi-modal Audio and Vision with Large Language models.
 
 Are you a self-motivated student seeking an enriching internship experience? Please reach out to me via email to explore exciting internship opportunities throughout the year. Our internships not only offer valuable hands-on research experience but also provide opportunities for publishing papers.
 
-## 📝 [Resume](./assets/resume/Resume_Sangwoo_Cho.pdf)
+## 📝 [CV](./assets/resume/Resume_Sangwoo_Cho.pdf)
 
 ## Research Interests
 
-- **Natural Language Processing**, **Computer Vision**, summarization, long document understanding, text generation, multi-modal vision and language model
-
-## News
-
-- **[Jun. 2023]** Two papers are accepted to ACL 2023.
-- **[Oct. 2022]** Two papers about summarization are accepted to EMNLP 2022.
+- **LLM**, **Multi-modal LLM**, summarization, long document understanding
 
 ## Publications
+- **SPECTRUM:Speaker-EnhancedPre-TrainingforLongDialogue Summarization**
+  <br>**SangwooCho**, KaiqiangSong, ChaoZhao, XiaoyangWang, DongYu
+  <br>**arXiv**.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2401.17597.pdf)] 
+  
+- **Zebra:ExtendingContextWindowwithLayerwiseGrouped Local-GlobalAttention**
+  <br>
+  KaiqiangSong∗,XiaoyangWang∗,**SangwooCho**∗,XiaomanPan,DongYu
+  <br>
+  **arXiv**.
+  <br>
+  [[PDF](https://arxiv.org/pdf/2312.08618.pdf)] [[Code](https://github.com/tencent-ailab/zebra-inference)]
+  
 - **Generating User-Engaging News Headlines**
   <br>
    Pengshan Cai, Kaiqiang Song, **Sangwoo Cho**, Hongwei Wang,
-Xiaoyang Wang, Hong Yu, Fei Liu, Dong Yu
+  Xiaoyang Wang, Hong Yu, Fei Liu, Dong Yu
   <br>
   Association for Computational Linguistics. **ACL 2023**.
   <br>
-  [[PDF]()] [[Code](https://github.com/pengshancai/user-engaging-headlines)]
+  [[PDF](https://aclanthology.org/2023.acl-long.183.pdf)] [[Code](https://github.com/pengshancai/user-engaging-headlines)]
   
 - **OASum: Large-Scale Open Domain Aspect-based Summarization**
   <br>
@@ -72,4 +81,4 @@ Xiaoyang Wang, Hong Yu, Fei Liu, Dong Yu
 
 ## Services
 
-- Conference Reviewers: NAACL 2021,2022, EMNLP 2019-2022, ACL 2019-2022, AAAI 2023.
+- Conference Reviewers: NAACL 2021-2024, EMNLP 2019-2023, ACL 2019-2023, AAAI 2023.
