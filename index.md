@@ -17,15 +17,15 @@ Are you a self-motivated student seeking an enriching internship experience? Ple
 - **LLM**, **Multi-modal LLM**, summarization, long document understanding
 
 ## Publications
-- **SPECTRUM:Speaker-EnhancedPre-TrainingforLongDialogue Summarization**
-  <br>**SangwooCho**, KaiqiangSong, ChaoZhao, XiaoyangWang, DongYu
+- **SPECTRUM: Speaker-Enhanced Pre-Training for Long Dialogue Summarization**
+  <br>**Sangwoo Cho**, Kaiqiang Song, Chao Zhao, Xiaoyang Wang, Dong Yu
   <br>**arXiv**.
   <br>
   [[PDF](https://arxiv.org/pdf/2401.17597.pdf)] 
   
-- **Zebra:ExtendingContextWindowwithLayerwiseGrouped Local-GlobalAttention**
+- **Zebra: Extending Context Window with Layerwise Grouped Local-Global Attention**
   <br>
-  KaiqiangSong∗,XiaoyangWang∗,**SangwooCho**∗,XiaomanPan,DongYu
+  Kaiqiang Song∗, Xiaoyang Wang∗, **Sangwoo Cho**∗, Xiaoman Pan, Dong Yu
   <br>
   **arXiv**.
   <br>
